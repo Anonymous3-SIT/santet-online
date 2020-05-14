@@ -22,5 +22,5 @@ python santet.py
 
 #### Join US
 *.[Facebook](https://mobile.facebook.com/groups/1704985559810669)  
-*.[Telegram](https://t.me/BHSec)
+*.[Website](http://shutdown-indo.blogspot.com/)
 *.[Telegram-Channel](https://t.me/bhs3c)
